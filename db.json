@@ -1,37 +1,35 @@
-{ 
-   "results" :[
-      { 
-         "id": 1, 
-         "nomUpper": "LILLE (59000)", 
-         "codePostal": "(59000)" 
-      },
-      {
-        "id": 2, 
-        "nomUpper": "PARIS 6EME ARRONDISSEMENT (75006)" , 
-        "codePostal": "(75006)" 
-      },
-      {
-        "id": 3, 
-        "nomUpper": "PARIS 1ER ARRONDISSEMENT (75001)", 
-        "codePostal":"(75001)" 
-      },
-      { 
-        "id": 4, 
-        "nomUpper":"PARIS 4EME ARRONDISSEMENT (75004)", 
-        "codePostal": "(75004)" 
-      },
-      {
-        "id": 5, 
-        "nomUpper": "PARIS 10EME ARRONDISSEMENT (75010)", 
-        "codePostal":"(75010)" 
-      },
-      { "id": 6, 
-        "nomUpper":"PARIS 8EME ARRONDISSEMENT (75008)", 
-        "codePostal": "(75008)" 
-      },
-      { "id": 7, 
-        "nomUpper":"MARSEILLE 10EME ARRONDISSEMENT (13010)", 
-        "codePostal":"(13010)" 
-      }
-     ]
-}
+[
+  {
+     "id": 1,
+     "nomUpper": "LILLE (59000)",
+     "codePostal": "(59000)"
+  },
+  {
+    "id": 2,
+    "nomUpper": "PARIS 6EME ARRONDISSEMENT (75006)" ,
+    "codePostal": "(75006)"
+  },
+  {
+    "id": 3,
+    "nomUpper": "PARIS 1ER ARRONDISSEMENT (75001)",
+    "codePostal":"(75001)"
+  },
+  {
+    "id": 4,
+    "nomUpper":"PARIS 4EME ARRONDISSEMENT (75004)",
+    "codePostal": "(75004)"
+  },
+  {
+    "id": 5,
+    "nomUpper": "PARIS 10EME ARRONDISSEMENT (75010)",
+    "codePostal":"(75010)"
+  },
+  { "id": 6,
+    "nomUpper":"PARIS 8EME ARRONDISSEMENT (75008)",
+    "codePostal": "(75008)"
+  },
+  { "id": 7,
+    "nomUpper":"MARSEILLE 10EME ARRONDISSEMENT (13010)",
+    "codePostal":"(13010)"
+  }
+]
